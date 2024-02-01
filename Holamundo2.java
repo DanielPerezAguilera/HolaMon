@@ -11,7 +11,7 @@ package com.mycompany.edproject;
 public class Holamundo2 {
 
     public static void main(String[] args) {
-        System.out.println("Hello big World!");
+        System.out.println("Hello small World!");
     }
 }
 
